@@ -19,23 +19,23 @@ npm start
 
 ### POST /api/users
 
-![post.png](screenshots/post.png)
+
 
 ### GET /api/users
 
-![get.png](screenshots/get.png)
+
 
 ### GET /api/users/:id
 
-![get_id.png](screenshots/get_id.png)
+
 
 ### PATCH /api/users/:id
 
-![patch.png](screenshots/patch.png)
+
 
 ### DELETE /api/users/:id
 
-![delete.png](screenshots/delete.png)
+
 
 # Практическая работа №20
 
