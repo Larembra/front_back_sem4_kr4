@@ -18,28 +18,29 @@ npm start
 ## Скриншоты
 
 ### POST /api/users
-<img width="1196" height="672" alt="image" src="https://github.com/user-attachments/assets/8c0d420e-5f57-4000-9a64-d83a4826f196" />
+<img width="902" height="747" alt="image" src="https://github.com/user-attachments/assets/42eabe7e-0a52-46c6-8e66-c4eb84c27523" />
 
-
-
-### GET /api/users
-<img width="1625" height="909" alt="image" src="https://github.com/user-attachments/assets/9385e12b-ef5c-450c-9ecb-d307a2be95e0" />
 
 
 
 ### GET /api/users/:id
-<img width="922" height="899" alt="image" src="https://github.com/user-attachments/assets/6d012326-28a3-486f-9a75-554c3d0a0858" />
 
+<img width="1196" height="672" alt="image" src="https://github.com/user-attachments/assets/8c0d420e-5f57-4000-9a64-d83a4826f196" />
+
+
+### GET /api/users/
+
+<img width="1625" height="909" alt="image" src="https://github.com/user-attachments/assets/9385e12b-ef5c-450c-9ecb-d307a2be95e0" />
 
 
 ### PATCH /api/users/:id
-<img width="917" height="468" alt="image" src="https://github.com/user-attachments/assets/9bcc36d6-45eb-48a7-9754-cfa536b21c8e" />
 
+<img width="922" height="899" alt="image" src="https://github.com/user-attachments/assets/6d012326-28a3-486f-9a75-554c3d0a0858" />
 
 
 ### DELETE /api/users/:id
-<img width="300" height="262" alt="image" src="https://github.com/user-attachments/assets/249e1dcf-4fa2-4ef2-8c43-a073cf57e457" />
 
+<img width="917" height="468" alt="image" src="https://github.com/user-attachments/assets/9bcc36d6-45eb-48a7-9754-cfa536b21c8e" />
 
 
 
@@ -83,28 +84,6 @@ MongoDB, коллекция `users`:
 | GET | /api/users/:id | Пользователь по ID |
 | PATCH | /api/users/:id | Обновить пользователя |
 | DELETE | /api/users/:id | Удалить пользователя |
-
-## Скриншоты
-
-### POST /api/users
-<img width="1196" height="672" alt="image" src="https://github.com/user-attachments/assets/8c0d420e-5f57-4000-9a64-d83a4826f196" />
-
-
-### GET /api/users
-<img width="1625" height="909" alt="image" src="https://github.com/user-attachments/assets/9385e12b-ef5c-450c-9ecb-d307a2be95e0" />
-
-
-### GET /api/users/:id
-<img width="922" height="899" alt="image" src="https://github.com/user-attachments/assets/6d012326-28a3-486f-9a75-554c3d0a0858" />
-
-
-### PATCH /api/users/:id
-<img width="917" height="468" alt="image" src="https://github.com/user-attachments/assets/9bcc36d6-45eb-48a7-9754-cfa536b21c8e" />
-
-
-### DELETE /api/users/:id
-<img width="300" height="262" alt="image" src="https://github.com/user-attachments/assets/249e1dcf-4fa2-4ef2-8c43-a073cf57e457" />
-
 
 # Практические работы №22-23
 
